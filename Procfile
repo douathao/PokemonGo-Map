@@ -1,1 +1,1 @@
-web: python runserver.py -a google -u douathoj@gmail.com -p DouaThao89 -l "55429" -st 10
+web: python runserver.py -a google -u phiat11@gmail.com -p Pt@123123 -l "55429" -st 10
