@@ -1,1 +1,1 @@
-web: python runserver.py -a google EMAIL -p PASSWORD -l LOCATION -st STEP
+web: python runserver.py -a google douathoj@gmail.com -p DouaThao89 -l "55429" -st 10
